@@ -40,5 +40,5 @@
 ###
 
 <p align="left">Sou um jovem estudante de Ciência da Computação que busca ampliar seus conhecimentos na área de TI, gosto de aprender mais sobre TI e seus setores, música, videogames, esportes.</p>
-
+<p align="left">Tenho uma breve experi"encia com python, html e css, mas com bastante fome de conhecimento.</p>
 ###
